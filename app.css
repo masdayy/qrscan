@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+#preview{
+  min-width: 100%;
+  min-height: 93.2vh;
+  position: fixed;
+}
+
+.bi-qr-code-scan, #btn-load{
+  font-size: 35px;
+  border-radius: 7px;
+}
+
+label{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 500;
+  padding-bottom: 7px;
+  padding-top: 7px;
+}
+
+input{
+  font-family: 'Poppins', Sans-Serif;
+  font-weight: 500;
+}
+
+.target{
+  margin: 250px auto;
+  margin-left: 25%;
+  margin-right: 25%;
+}
